@@ -3,7 +3,7 @@
 
 ![Azure](https://img.shields.io/badge/Azure-Microsoft-blue)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 Este repositório documenta a prática realizada no laboratório da DIO, explorando os serviços **Azure Speech Studio** e **Language Studio**. O objetivo é aplicar conceitos de análise de fala e linguagem natural, criando soluções de IA para voz e texto.
 
